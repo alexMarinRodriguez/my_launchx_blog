@@ -9,6 +9,7 @@ Usa este post para anotar tus expectativas de la misión.
 Para mi la cultura de un profesional del sofware es
 
 mantener un orden
+
 Respeto
 Honestidad
 Amor por lo que se hace
