@@ -18,4 +18,6 @@ Amor por lo que se hace
 
 Dedicacion
 
+Valorar el trabajo de otros
+
 
